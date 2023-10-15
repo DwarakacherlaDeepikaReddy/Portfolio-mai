@@ -17,7 +17,7 @@ function Introduction() {
   return (
     <div className="introduction">
       <div>Hello 👋🏻</div>
-      <div>This is Tejeswaar! 😉</div>
+      <div>This is Deepika! 😉</div>
       <div>
         <em className="tag-mine">
           (A Student At Vellore Institute Of Technology, Vellore, IN)
