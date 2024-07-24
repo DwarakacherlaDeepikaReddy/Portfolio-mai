@@ -17,11 +17,11 @@ function AboutMe() {
   return (
     <div className="about-me-p">
       <p className="about-me-1">
-        Hi, I’m <span className="my-name">deepika</span>, a web development
+        Hi, I’m <span className="my-name">Deepika</span>, a web development
         fanatic and Data Science Student. I am student at Vellore Institute of
         Technology{" "}
         <span className="current-year">
-          (Currently: 3rd Year, Graduation Period: 2021 - 2025)
+          (Currently: 4th Year, Graduation Period: 2021 - 2025)
         </span>
         , and I love to create awesome websites. I know JavaScript well and
         intermediate upto Reactjs and I’m learning Node.js, Express.js and
@@ -33,16 +33,9 @@ function AboutMe() {
         creativity and passion.
       </p>
       <p className="about-me-3">
-        🌟 I had completed more than 150+ problems in
-        <a
-          className="about-me-link-1"
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://leetcode.com/ajayganeshch/"
-        >
-          Leetcode
-        </a>
-        using JavaScript and have streak for 84 days.
+        
+        
+        
       </p>
     </div>
   );
